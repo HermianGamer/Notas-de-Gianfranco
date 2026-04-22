@@ -1,0 +1,3 @@
+The very first step of any project is to [create a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories). A [[Git]] "repository" (or "repo") represents a single project. You'll typically have one repository for each project you work on.
+
+A repo is essentially just a directory that contains a project (other directories and files). The only difference is that it _also_ contains a hidden `.git` directory. That [hidden directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory) is where Git stores all of its internal tracking and versioning information for the project.

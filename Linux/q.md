@@ -1,0 +1,1 @@
+press q to exit the [[less]] program and return to your [[Shell]] prompt.

@@ -1,0 +1,1 @@
+es un lenguaje de programacion interpretado de alto nivel. usa [[Functions]], hay [[Errors & Exceptions]] . ademas existen distintos [[Método]]s.hay distintos [[data type]]

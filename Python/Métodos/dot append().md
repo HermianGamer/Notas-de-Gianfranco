@@ -1,0 +1,1 @@
+es un [[Método]] agrega un elemento a una [[Lista]]

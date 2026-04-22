@@ -1,0 +1,1 @@
+graphical user interface, es la interfaz mas comun. menos potente que la [[CLI]] pero mas intuitiva y visual.

@@ -1,0 +1,2 @@
+One of the major benefits of using Git is the ability to undo changes. There are _a lot_ of different ways to do this, but first, we'll start by going back in the [[Commit]] history without discarding changes.
+ one of them is [[Git Reset Soft]] otro es [[Git Reset Hard]]

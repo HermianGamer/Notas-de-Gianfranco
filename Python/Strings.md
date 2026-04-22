@@ -1,0 +1,1 @@
+**`str`** Cadenas (_Strings_) `"Hola"` Texto encerrado en comillas.

@@ -1,0 +1,1 @@
+en [[Python]] hay [[Diccionario]]s, [[Lista]]s, [[Tuples]] y [[Set]]s [[Strings]], [[Ints]], [[Floats]] 
