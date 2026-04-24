@@ -21,7 +21,7 @@ It will produce the correct `acceleration` as an output.
 
 [[Public vs Private]]
 
-
+[[Object Oriented Programming]]
 # Not Security
 
 Encapsulation is all about making code easy to work with by "hiding" complicated code within a ["black box"](https://en.wikipedia.org/wiki/Black_box). It makes it so that we don't have to worry about details of how a function or method works... we just _use_ it.

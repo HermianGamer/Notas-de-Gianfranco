@@ -1,0 +1,1 @@
+[[Python]] libraries are ==collections of pre-written code modules that allow developers to perform complex tasks without writing code from scratch==. With over **137,000 libraries** available in the [Python Package Index (PyPI)](https://pypi.org/), Python has become the leading language for data science, AI, and web development.

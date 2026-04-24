@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3892f0643f66847c",
+        "id": "407ca9a772152f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "069e4c7eb4a601d0",
+            "id": "13dcde50c1978bd7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,20 +18,63 @@
             }
           },
           {
-            "id": "dcfeb3d04f260ce9",
+            "id": "4576defb021e0e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/GitHub Repository.md",
+                "file": "Asteroids/Pygame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Repository"
+              "title": "Pygame"
+            }
+          },
+          {
+            "id": "bb22135a7089c645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asteroids/Virtual Enviroment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Enviroment"
+            }
+          },
+          {
+            "id": "0210ec9eacd63ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotkeys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hotkeys"
+            }
+          },
+          {
+            "id": "7745605ec3aebba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Object Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object Oriented Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,43 +236,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "069e4c7eb4a601d0",
+  "active": "0210ec9eacd63ef8",
   "lastOpenFiles": [
-    "Git/git init.md",
-    "Git/GitHub Repository.md",
-    "Constructors.md",
-    "Class.md",
-    "Class and Instance Variables.md",
-    "Clean Code.md",
-    "Python/Errors and Exceptions/Errors & Exceptions.md",
-    "Encapsulation.md",
-    "Encapsulation in Python.md",
-    "Public vs Private.md",
-    "Python/Errors and Exceptions/Exceptions.md",
-    "Python/Python Interpreter.md",
-    "Python/Errors and Exceptions/Raise Exceptions.md",
-    "ValueError.md",
-    "Python/Python.md",
-    "Instance.md",
-    "Self.md",
-    "Método.md",
-    "Object Oriente Programming.md",
-    "method.md",
-    "Object.md",
-    "Hotkeys.md",
-    "DRY Code.md",
-    "OOP",
-    "Git/Branch.md",
     "Git/Gitignore.md",
-    "Git/Status.md",
+    "Asteroids/Virtual Enviroment.md",
+    "Asteroids/Pygame.md",
+    "Asteroids",
+    "Asteroids.md",
+    "OOP/Object Oriented Programming.md",
+    "OOP/Object.md",
+    "OOP/Inheritance.md",
+    "OOP/Abstraction.md",
+    "OOP/Encapsulation.md",
+    "OOP/Class.md",
+    "OOP/Clean Code.md",
+    "OOP/Polymorphism.md",
+    "OOP/Class and Instance Variables.md",
+    "OOP/Built-In Method Print.md",
+    "OOP/DRY Code.md",
+    "Python/Wide not Deep.md",
+    "Bookbot/Refactoring.md",
+    "Linux/Homebrew.md",
+    "Python/Python General/Data Type.md",
+    "Python/Python General/Strings.md",
+    "Python/Python General/Data structures.md",
+    "Python/Diccionarios/Ordenar Lista de Diccionarios.md",
+    "Python/Palabras Reservadas/Contains.md",
+    "Python/Python General/Ints.md",
+    "Python/Python General/Importing.md",
+    "Python/Python General/Functions.md",
+    "Python/Python General",
+    "Python/cartella senza nome",
+    "Python/Palabras Reservadas",
+    "Python/Control de Flujo",
+    "Python/Métodos Built-In",
+    "Python/Métodos Nativos",
+    "OOP",
     "Bookbot",
-    "Python/Errors and Exceptions",
-    "Python/Sets",
-    "Python/Diccionarios",
-    "Python/Strings",
-    "Python/Métodos",
-    "Python/Listas",
-    "Python",
-    "Linux"
+    "Python/Errors and Exceptions"
   ]
 }

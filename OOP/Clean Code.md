@@ -1,4 +1,4 @@
-Paradigms like [[Object Oriente Programming]] and [functional programming](https://en.wikipedia.org/wiki/Functional_programming) are all about making code easier to work with. After all, programmers are just feeble humans. Code that's easy for humans to understand is called "clean code".
+Paradigms like [[Object Oriented Programming]] and [functional programming](https://en.wikipedia.org/wiki/Functional_programming) are all about making code easier to work with. After all, programmers are just feeble humans. Code that's easy for humans to understand is called "clean code".
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 > 

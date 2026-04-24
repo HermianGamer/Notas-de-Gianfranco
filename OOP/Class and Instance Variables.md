@@ -1,4 +1,4 @@
-We've already worked with both class variables and instance variables, but we haven't really talked about the difference.
+We've already worked with both [[Class]] variables and [[Instance]] variables, but we haven't really talked about the difference.
 
 ## Instance Variables
 

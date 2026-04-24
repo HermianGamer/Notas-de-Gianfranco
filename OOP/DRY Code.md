@@ -4,4 +4,4 @@ Another "rule of thumb" for writing maintainable code is "Don't Repeat Yourself"
 - If you forget to change it in one place, you'll have a bug
 - It's more work to write it over and over again
 
-## Assignment
+this can be done in the [[Refactoring]] and also to have [[Clean Code]]

@@ -21,3 +21,4 @@ wall_maria = Wall(1, 2, 3)
 wall_rose = Wall(4, 5, 6)
 wall_sina = Wall(9, 8, 7)
 ```
+

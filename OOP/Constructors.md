@@ -1,7 +1,7 @@
 I have a confession... I've been teaching you the _bad_ way to define properties on a class... oopsie!
 
 
-It's rare in the real world to see a [[class]] that defines properties like this (as we did):
+It's rare in the real world to see a [[Class]] that defines properties like this (as we did):
 
 ```python
 class Soldier:

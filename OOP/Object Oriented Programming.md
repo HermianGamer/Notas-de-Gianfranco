@@ -1,5 +1,7 @@
 [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming), or "OOP", is a pattern for (allegedly) writing **clean and maintainable code**.
 
+[[Python]] esta hecho mas que nada para el OOP.
+
 Admittedly, not everyone _agrees_ that object-oriented programming is the best way to write code, but, to be a good engineer, you should at least _understand_ it.
 
 Throughout this course, we'll be coding small bits of a [real-time strategy game](https://en.wikipedia.org/wiki/Real-time_strategy) called "Age of Dragons". Players control armies of humans, elves, orcs, and dragons in top-down battles. It's similar to Age of Empires or StarCraft.
@@ -8,7 +10,7 @@ Throughout this course, we'll be coding small bits of a [real-time strategy gam
 
 ## Assignment
 
-One of the greatest sins when trying to write "clean code" is using misleading variable and function names. Take a look at the `destroy_wall` function. It takes a list of numbers as input (each representing the health of a wall) and returns a new list with each entry of `0` or less removed.
+One of the greatest sins when trying to write "[[Clean Code]]" is using misleading variable and function names. Take a look at the `destroy_wall` function. It takes a list of numbers as input (each representing the health of a wall) and returns a new list with each entry of `0` or less removed.
 
 Based on its name, you might assume that `destroy_wall` destroys a _single_ wall, but if you look closely, you'll see that it handles _multiple_ walls.
 

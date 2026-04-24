@@ -1,5 +1,5 @@
   
-A [class](https://docs.python.org/3/tutorial/classes.html) is a special type in an object-oriented programming language like Python. If you squint really hard, it's kinda like a dictionary in that it usually stores name-value pairs:
+A [class](https://docs.python.org/3/tutorial/classes.html) is a special type in an [[Object Oriented Programming]] language like Python. If you squint really hard, it's kinda like a dictionary in that it usually stores name-value pairs:
 
 ```py
 # Defines a new class called "Soldier"
