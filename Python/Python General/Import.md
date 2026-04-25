@@ -1,4 +1,4 @@
-In Python, each `.py` file is a **module**, and we can import [[Functions]], variables, and classes from one module into another with the [`import`](https://docs.python.org/3/reference/simple_stmts.html#import) statement. The name of a module is the filename (without the `.py`extension).
+In Python, each `.py` file is a **module**, and we can import [[Function]], variables, and classes from one module into another with the [`import`](https://docs.python.org/3/reference/simple_stmts.html#import) statement. The name of a module is the filename (without the `.py`extension).
 
 For example, pretend we had a `database.py` file with a top-level function called `connect` and a variable called `db_version`. We could _import_ those into another file (like a `main.py` file) like this:
 

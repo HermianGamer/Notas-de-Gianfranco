@@ -1,4 +1,4 @@
-A [[Functions]] signature (or [[Método]] signature) includes the name, inputs, and outputs of a function or method. For example, `hit_by_fire` in the `Human` and `Archer` classes have identical signatures.
+A [[Function]] signature (or [[Método]] signature) includes the name, inputs, and outputs of a function or method. For example, `hit_by_fire` in the `Human` and `Archer` classes have identical signatures.
 
 ```python
 class Human:

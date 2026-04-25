@@ -1,4 +1,4 @@
-It would be _rough_ if `.gitignore` files only accepted exact filepath section names. Luckily, they don't! [[Gitignore]]
+It would be _rough_ if `.gitignore` files only accepted exact filepath section names. Luckily, they don't! [[Git/Gitignore]]
 
 Let's go over some of the most common patterns.
 

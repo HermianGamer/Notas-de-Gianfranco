@@ -1,5 +1,5 @@
 
-[GitHub](https://github.com/) is the most popular website for Git repositories ([[project]]s) online. That is, for hosting "remotes" on a central website. GitHub serves several purposes:
+[GitHub](https://github.com/) is the most popular website for Git repositories ([[Project]]s) online. That is, for hosting "remotes" on a central website. GitHub serves several purposes:
 
 - As a backup of all your code on the cloud in case something happens to your computer
 - As a central place to share your code and collaborate on it with others

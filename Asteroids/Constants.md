@@ -1,0 +1,1 @@
+Games often have a lot of [magic numbers](https://en.wikipedia.org/wiki/Magic_number_\(programming\)) to represent things like player speeds, item costs, and attack damage. We'll use a dedicated module as a place to store those kinds of constant values.

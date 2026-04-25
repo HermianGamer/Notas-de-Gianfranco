@@ -1,6 +1,6 @@
 Many developers have spent _years_ writing code, but never develop good organization and so they end up with project directories strewn haphazardly across their filesystem.
 
-I know it sounds silly, but it gets painful to manage so many [[project]]s. That's why I use the system I'm about to show you.
+I know it sounds silly, but it gets painful to manage so many [[Project]]s. That's why I use the system I'm about to show you.
 
 To be clear, you can organize your code however you prefer on your machine, but this method has served me very well. It's similar to how Golang used to _enforce_ code organization, which is in turn based on how code projects are hosted online:
 
