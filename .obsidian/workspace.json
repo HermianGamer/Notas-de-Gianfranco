@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FP/Anonymous functions.md",
+                "file": "FP/dot replace().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anonymous functions"
+              "title": "dot replace()"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5570172ca2c5ef8",
+  "active": "0202294e39d08b99",
   "lastOpenFiles": [
+    "FP/Anonymous functions.md",
     "FP/Immutability.md",
     "FP/Classes vs. Functions.md",
     "FP/Debbuging Functional Programming.md",
@@ -193,7 +194,6 @@
     "FP/Expressions Over Statements.md",
     "FP/Ternary Expressions.md",
     "FP/Functions as Variables.md",
-    "FP/Anonymous functions.md",
     "FP/Statements vs. Expressions.md",
     "FP/Statements.md",
     "FP/dot replace().md",
