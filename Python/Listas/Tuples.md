@@ -1,4 +1,4 @@
-Las [Tuples](https://docs.python.org/3/library/stdtypes.html#typesseq-tuple) o Tuplas son colecciones de datos ordenados y es inmutable. Es como una [[Lista]] pero de tamaño fijo. Las tuplas se crean con paréntesis. 
+Las [Tuples](https://docs.python.org/3/library/stdtypes.html#typesseq-tuple) o Tuplas son colecciones de datos ordenados y es inmutable. Es como una [[Lista]] pero de tamaño fijo. Las tuplas se crean con paréntesis.
 
 ```py
 my_tuple = ("this is a tuple", 45, True)

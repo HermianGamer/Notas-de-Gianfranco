@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1e6af06b263b28",
+        "id": "c8c67c44a6cd59a4",
         "type": "tabs",
         "children": [
           {
-            "id": "14f7b79559dcf8ae",
+            "id": "0202294e39d08b99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FP/Anonymous functions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Anonymous functions"
             }
           }
         ]
@@ -181,33 +185,34 @@
   },
   "active": "d5570172ca2c5ef8",
   "lastOpenFiles": [
+    "FP/Immutability.md",
+    "FP/Classes vs. Functions.md",
+    "FP/Debbuging Functional Programming.md",
+    "FP/Functional vs. OOP.md",
+    "FP/Expressions.md",
+    "FP/Expressions Over Statements.md",
+    "FP/Ternary Expressions.md",
+    "FP/Functions as Variables.md",
+    "FP/Anonymous functions.md",
+    "FP/Statements vs. Expressions.md",
+    "FP/Statements.md",
+    "FP/dot replace().md",
+    "FP/dot strip().md",
+    "FP/Functional Programming.md",
+    "Git/Fetch.md",
+    "Git/Remote.md",
+    "FP/Declarative.md",
+    "OOP/Imperative.md",
+    "Python/Listas/Tuples.md",
+    "FP",
+    "Hotkeys.md",
     "Python/Python General/Import.md",
     "Python/Python General/Function.md",
     "Python/Loop.md",
     "Linux/Esconder chflags.md",
     "Git/Gitignore Stop Tracking.md",
     "Git/Gitignore Global.md",
-    "Asteroids/uv.md",
-    "Asteroids/Modules.md",
-    "Asteroids/Group.md",
-    "Asteroids/Game Loop.md",
-    "Asteroids/FPS.md",
-    "Asteroids/Create uv Project.md",
-    "Asteroids/Create a Virtual Environment.md",
-    "Asteroids/Constants.md",
-    "Asteroids/Add a Library as a Dependency.md",
-    "Python/Python General/Strings.md",
-    "Python/Python General/Python.md",
-    "Python/Python General/Python Interpreter.md",
-    "Python/Python General/Ints.md",
-    "Python/Python General/Importing.md",
-    "Python/Python General/Functions.md",
-    "Python/Python General/Floats.md",
-    "Python/Python General/Data structures.md",
-    "Python/Python General/Data Type.md",
     "Python/Python General",
-    "Python/Palabras Reservadas/Deletion.md",
-    "Python/Palabras Reservadas/Contains.md",
     "Python/Palabras Reservadas",
     "Python/Métodos Built-In",
     "Python/Control de Flujo",
@@ -215,7 +220,6 @@
     "Asteroids",
     "Python/Métodos",
     "Python/Sets",
-    "Python/Listas",
-    "Python/Errors and Exceptions"
+    "Python/Listas"
   ]
 }

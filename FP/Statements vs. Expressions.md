@@ -1,0 +1,1 @@
+Studying [[Functional Programming]] is really about returning to the most basic aspects of programming and looking at them in a new way. [[Statements]] and [[Expressions]]are a great example of that.
