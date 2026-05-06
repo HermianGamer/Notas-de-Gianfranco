@@ -1,1 +1,1 @@
-en [[Python]] hay [[Diccionario]]s, [[Lista]]s, [[Tuples]] y [[Set]]s
+en [[Python]] hay [[Diccionario]]s, [[Lista]]s, [[Tuple]] y [[Set]]s

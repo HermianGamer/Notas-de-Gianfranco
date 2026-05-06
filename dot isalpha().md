@@ -1,0 +1,1 @@
+El [[método]] `.isalpha()` en Python es una ==función booleana que verifica si todos los caracteres de una cadena son letras== (\(a\)-\(z\), mayúsculas o minúsculas). Devuelve `True` si la [[String]] no está vacía y solo contiene letras, y `False` si contiene números, espacios, signos de puntuación o caracteres especiales.

@@ -1,4 +1,4 @@
-es un [[Método]] separa un [[Strings]] en una [[Lista]].
+es un [[Método]] separa un [[String]] en una [[Lista]].
 ```py
 message = "hello there sam"
 words = message.split()

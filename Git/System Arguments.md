@@ -1,4 +1,4 @@
-The built in [`sys`](https://docs.python.org/3/library/sys.html) in [[Python]] module provides access to [command line arguments](https://en.wikipedia.org/wiki/Command-line_interface#Arguments) in the [[Terminal]]. In particular [`sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv) is a list of [[Strings]] representing the [[Positional Arguments]] passed to the script. The first argument is the script name, the rest are the arguments.  
+The built in [`sys`](https://docs.python.org/3/library/sys.html) in [[Python]] module provides access to [command line arguments](https://en.wikipedia.org/wiki/Command-line_interface#Arguments) in the [[Terminal]]. In particular [`sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv) is a list of [[String]] representing the [[Positional Arguments]] passed to the script. The first argument is the script name, the rest are the arguments.  
 For example, `python3 main.py` will result in a `sys.argv` list that looks like this:
 
 ```py

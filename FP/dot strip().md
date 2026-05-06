@@ -1,2 +1,2 @@
-[[Método]] [[Strings]]
+[[Método]] [[String]]
 - [.strip()](https://docs.python.org/3/library/stdtypes.html#str.strip) removes whitespace from the beginning and end of a string, [.lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) and [.rstrip()](https://docs.python.org/3/library/stdtypes.html#str.rstrip) remove whitespace from the left and right respectively.
