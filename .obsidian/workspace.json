@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c67c44a6cd59a4",
+        "id": "c56f1146e6c4433f",
         "type": "tabs",
         "children": [
           {
-            "id": "0202294e39d08b99",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e7f90664b41a54b0",
+            "id": "a0b70a432efb411d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dot isdigit().md",
+                "file": "FP/Input and Output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dot isdigit()"
-            }
-          },
-          {
-            "id": "244b243702fba281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Function Signature.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Signature"
+              "title": "Input and Output"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b46150698117d068",
@@ -209,34 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "244b243702fba281",
+  "active": "d5570172ca2c5ef8",
   "lastOpenFiles": [
-    "Guión Beca.md",
+    "FP/No-Op.md",
+    "FP/Should I I O?.md",
+    "FP/Input and Output.md",
+    "return.md",
+    "Python/Métodos Built-In/dot copy().md",
+    "FP/Functions as Variables.md",
+    "FP/Reference vs. Value.md",
+    "FP/Memoization.md",
+    "FP/Referential Transparency.md",
+    "FP/Recursion.md",
+    "FP/Map.md",
+    "FP/Built-In Function.md",
+    "FP/Zip.md",
+    "Python/Métodos Built-In/dot isalpha().md",
     "OOP/Function Signature.md",
-    "Pure Function.md",
-    "dot isdigit().md",
+    "Guión Beca.md",
+    "FP/Pure Function.md",
+    "Python/Métodos Built-In/dot isdigit().md",
     "Preguntas.md",
     "Caso.md",
-    "Built-In Function.md",
     "Python/Python General/String.md",
-    "dot isalpha().md",
     "OOP/Método.md",
-    "Map.md",
     "Linux/enviroment.md",
     "Python/Sets/Set.md",
     "FP/Anonymous or Lambda Function.md",
-    "Zip.md",
-    "Reduce.md",
-    "Linux/Bourne Shell.md",
-    "Python/Listas/Tuple.md",
-    "Filter.md",
-    "First Class and Higher Order Functions.md",
-    "First-class function.md",
-    "Higher Order Functions.md",
-    "FP/dot replace().md",
-    "FP/Immutability.md",
-    "FP/Classes vs. Functions.md",
-    "FP/Debbuging Functional Programming.md",
+    "FP/Reduce.md",
     "FP",
     "Python/Python General",
     "Python/Palabras Reservadas",
