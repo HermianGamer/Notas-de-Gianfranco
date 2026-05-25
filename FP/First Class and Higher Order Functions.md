@@ -1,7 +1,7 @@
 A programming language "supports first-class functions" when functions are treated like any other variable. That means functions can be passed as arguments to other functions, can be returned by other functions, and can be assigned to variables.
 
 - **[[First-class function]]:** A function that is treated like any other value ,[[Functions as Variables]].
-- **[[Higher Order Functions]]:** A function that accepts another function as an argument or returns a function
+- **[[Higher Order Function]]:** A function that accepts another function as an argument or returns a function
 
 Python supports first-class and higher-order functions.
 

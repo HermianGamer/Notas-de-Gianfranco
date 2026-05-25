@@ -1,0 +1,1 @@
+Game development is ==the structured process of creating video games, transforming concepts into interactive experiences through design, coding, art, and testing==.

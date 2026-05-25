@@ -1,0 +1,1 @@
+Because we're dealing with nested [[Diccionario]]s here, the `.copy()` [[Método]] will produce a _shallow copy_: the outer dict is a new object, but mutating inner dicts will still affect the original one. So, you should `import copy` and use [`copy.deepcopy()`](https://docs.python.org/3/library/copy.html) instead. [[import]]

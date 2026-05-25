@@ -6,3 +6,5 @@ Video games are generally built using a [game loop](https://gameprogrammingpatt
 3. Draw the game to the screen
 
 To create a good user experience, these 3 steps need to happen _many times per second_.
+
+[[Game Development]]

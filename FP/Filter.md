@@ -1,6 +1,7 @@
 The [filter](https://docs.python.org/3/library/functions.html#filter) function takes a function and an iterable (in this case a list) and returns an iterator that only contains elements from the original iterable where the result of the function on that item returned `True`. [[Built-In Function]]
 
-![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/FfVxD7d-933x350.png)
+![filter graph](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/FfVxD7d-933x350.png)
+
 
 In Python:
 

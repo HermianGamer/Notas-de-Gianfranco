@@ -1,4 +1,4 @@
-If you take nothing else away from this course, _please_ take this: **[Pure functions](https://en.wikipedia.org/wiki/Pure_function) are fantastic.** They have two properties:
+If you take nothing else away from this course, _please_ take this: **[Pure functions](https://en.wikipedia.org/wiki/Pure_function) are fantastic.** They have two properties: Pure [[Function]]
 
 - They _always_ return the same value given the same arguments.
 - Running them causes no side effects
@@ -30,3 +30,5 @@ def find_max(nums):
         if global_max < num:
             global_max = num
 ```
+
+[[Functional Programming]]

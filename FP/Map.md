@@ -1,4 +1,4 @@
-"Map," "filter," and "reduce" are three commonly used [[Higher Order Functions]] [higher-order functions](https://en.wikipedia.org/wiki/Higher-order_function) in [[Functional Programming]]. [[Built-In Function]]
+"Map," "filter," and "reduce" are three commonly used [[Higher Order Function]] [higher-order functions](https://en.wikipedia.org/wiki/Higher-order_function) in [[Functional Programming]]. [[Built-In Function]]
 
 In Python, the  [map](https://docs.python.org/3/library/functions.html#map) [[Function]] takes a function and an [iterable](https://docs.python.org/3/glossary.html#term-iterable) (in this case a list) as inputs. It returns an iterator that applies the function to every item, yielding the results.
 

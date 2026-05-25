@@ -1,4 +1,4 @@
-El `.gitignore` global es un archivo en tu home (`~`) que Git aplica a **todos tus repositorios** automáticamente, sin necesidad de tocarlo en cada proyecto.
+El `.gitignore` global es un archivo en tu home (`~`) que [[Git]] aplica a **todos tus** [[repositorio]]s automáticamente, sin necesidad de tocarlo en cada proyecto.
 
 Se configura así:
 

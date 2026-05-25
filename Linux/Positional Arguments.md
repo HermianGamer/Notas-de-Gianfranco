@@ -24,3 +24,12 @@ Other commands might take multiple arguments. For example, the `mv` command ta
 ```bash
 mv file.txt dest/file.txt
 ```
+
+
+## A Note on Ordering
+
+Any positional arguments _must come before_ keyword arguments. This will _not_ work:
+
+```py
+sub(b=3, 2)
+```

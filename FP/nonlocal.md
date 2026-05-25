@@ -1,0 +1,2 @@
+  
+[[Python]] has a [[keyword]] called [nonlocal](https://docs.python.org/3/reference/simple_stmts.html#nonlocal) that's required to modify a variable from an enclosing scope. Most programming languages don't require this keyword, but Python does.

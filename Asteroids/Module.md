@@ -3,6 +3,6 @@ It would be a _massive_ pain if we had to fit all of our code into a single fi
 Since each `.py` [[File]] is a module, we can group related [[Function]], variables, and classes together in a module. Then, other modules can [[Import]] them using the syntax:
 
 ```py
-from module_name import my_function
+from directory_name.module_name import my_function
 # or import everything: from module_name import *
 ```

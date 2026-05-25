@@ -11,4 +11,4 @@ The term "i/o" stands for input/output. In the context of writing programs, i/o 
 - Reading from or writing to a database
 - Even simply _printing to the console_ is considered i/o!
 
-_All i/o is a form of "side effect."_
+_All i/o is a form of "side effect."_ Avoided by [[Functional Programming]]
