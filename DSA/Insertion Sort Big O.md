@@ -1,0 +1,20 @@
+Insertion sort has a Big O of `O(n^2)`, because that is its _worst case_ complexity.
+
+The outer loop of insertion sort always executes `n` times, while the inner loop depends on the input.
+
+- **Best case**: If the data is pre-sorted, insertion sort becomes really fast. Can you see why?
+- **Average case**: The average case is `O(n^2)` because the inner loop will execute about half of the time.
+- **Worst case**: If the data is in reverse order, it's still `O(n^2)` and the inner loop will execute every time.
+
+## Reference
+
+```python
+def insertion_sort(nums):
+    for i in range(len(nums)):
+        j = i
+        while j > 0 and nums[j - 1] > nums[j]:
+            nums[j], nums[j - 1] = nums[j - 1], nums[j]
+            j -= 1
+    return nums
+```
+

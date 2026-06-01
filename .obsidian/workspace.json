@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f888d4869b94e5a5",
+            "id": "0b9b307e27df8fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Return Types.md",
+                "file": "DSA/Big O Categories Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Return Types"
+              "title": "Big O Categories Review"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b46150698117d068",
@@ -183,35 +184,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5570172ca2c5ef8",
+  "active": "0b9b307e27df8fc2",
   "lastOpenFiles": [
-    "Python/Optional Values.md",
-    "AI Agent/OS Python Functions.md",
-    "Python/Return Types.md",
-    "AI Agent/User Input.md",
-    "AI Agent/Token Metadata.md",
-    "Python/Specific Container Types.md",
-    "AI Agent/System Prompt.md",
-    "Linux/Symbolic Links.md",
-    "Python/List and Set Hints.md",
-    "Bookbot/project.md",
-    "Python/Basic Types.md",
+    "DSA/Lists.md",
+    "DSA/Insertion Sort.md",
+    "DSA/Quick Sort.md",
+    "DSA/Quick Sort Big O.md",
+    "DSA/Fixing Quick Sort.md",
+    "DSA/Why Use Quick Sort.md",
+    "DSA/Selection Sort.md",
+    "DSA/Polynomial vs. Exponential.md",
+    "DSA/Polynomial Time = P.md",
+    "DSA/Reduction to P.md",
+    "DSA/Order KN – Exponential.md",
+    "DSA/Big O Categories Review.md",
+    "DSA/Complexity Quiz.md",
+    "DSA/Introduction to Data Structures 1.md",
+    "What Are Data Structures.md",
+    "DSA/Algorithm.md",
+    "DSA/What Are Data Structures.md",
+    "DSA/Introduction to Data Structures.md",
+    "DSA/Insertion Sort Big O.md",
+    "DSA/Exponential Decay.md",
+    "DSA/Why Use Insertion Sort.md",
+    "DSA/Why Merge Sort.md",
+    "DSA/Merge Sort Big O.md",
+    "DSA/Merge Sort.md",
+    "DSA/Why Bubble Sort.md",
+    "DSA/Bubble Sort Big O.md",
+    "DSA",
     "Untitled.base",
-    "Regions AZ.md",
-    "AI Agent/Gemini API.md",
-    "Python/Function Parameters.md",
-    "Python/Métodos Built-In/dot extend().md",
-    "Python/Dictionary Hints.md",
-    "AI Agent/AI Agent Set Up.md",
-    "AI Agent/AI Agent.md",
-    "1.md",
-    "3.md",
-    "2.md",
-    "OOP/Instance.md",
-    "Python/Union Types.md",
-    "Python/Nested Types.md",
-    "Python/Tuple Hints.md",
-    "Asteroids/Module.md",
     "AI Agent",
     "FP",
     "Python/Python General",
@@ -219,7 +221,6 @@
     "Python/Métodos Built-In",
     "Python/Control de Flujo",
     "OOP",
-    "Asteroids",
-    "Python/Métodos"
+    "Asteroids"
   ]
 }

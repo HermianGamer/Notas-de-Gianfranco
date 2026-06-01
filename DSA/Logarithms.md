@@ -1,0 +1,41 @@
+A logarithm is the _inverse of an exponent_.
+
+24 = 16
+
+log216 = 4
+
+"log216" can be read as "log base 2 of 16", and means "the number of times 2 must be multiplied by itself to equal 16".
+
+"log216" might also be written as `log2(16)`
+
+Some more examples:
+
+|Logarithm|Result|
+|---|---|
+|log22|1|
+|log24|2|
+|log28|3|
+|log216|4|
+|log1010|1|
+|log10100|2|
+|log101000|3|
+|log1010000|4|
+
+Click to hide video
+
+## Python Syntax
+
+There isn't a language-level operator to calculate a logarithm, but we can [`import`](https://docs.python.org/3/reference/import.html) the [`math`](https://docs.python.org/3/library/math.html) library and use the [`math.log()`](https://docs.python.org/3/library/math.html#math.log) function.
+
+```py
+import math
+
+print(f"Logarithm base 2 of 16 is: {math.log(16, 2)}")
+# Logarithm base 2 of 16 is: 4.0
+```
+
+## Assignment
+
+Let's create an "influencer score". It will be a small number (like less than `100`) that will give influencers a metric for comparing their social media success against their peers.
+
+Complete the `get_influencer_score` function. An influencer score is their average engagement percentage multiplied by log base 2 of their follower count.

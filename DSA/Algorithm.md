@@ -1,0 +1,15 @@
+In the context of computer science, an [algorithm](https://en.wikipedia.org/wiki/Algorithm) is a finite sequence of well-defined, computer-implementable instructions. In short, an algorithm is:
+
+- **Defined**: there is a specific sequence of steps that performs a task
+- **Unambiguous**: there is a "correct" and "incorrect" interpretation of the steps
+- **Implementable**: it can be executed using software and hardware
+
+Click to hide video
+
+Algorithms are usually written in ["pseudocode"](https://en.wikipedia.org/wiki/Pseudocode) (pronounced "sue-dough-code") because an algorithm is a higher-level description of a solution to a problem. An algorithm doesn't care if it's implemented in Python, Go, TypeScript, or (gasp) Java. Pseudocode is just plain English that describes the steps of the algorithm.
+
+Here's some pseudocode for a mystery algorithm:
+
+1. Start with an original string called `S` and a new empty string called `R`.
+2. Loop through `S` from its last character to its first character, and for each one, add it to the end of `R`.
+3. Once you've processed all the characters, return `R`.
