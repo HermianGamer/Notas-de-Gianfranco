@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5e149306e04371",
+        "id": "3740c52088d9a7da",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9b307e27df8fc2",
+            "id": "5ed77d07fa98d9a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Big O Categories Review.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Big O Categories Review"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b46150698117d068",
@@ -184,34 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b9b307e27df8fc2",
+  "active": "5ed77d07fa98d9a8",
   "lastOpenFiles": [
-    "DSA/Lists.md",
-    "DSA/Insertion Sort.md",
-    "DSA/Quick Sort.md",
-    "DSA/Quick Sort Big O.md",
-    "DSA/Fixing Quick Sort.md",
-    "DSA/Why Use Quick Sort.md",
-    "DSA/Selection Sort.md",
-    "DSA/Polynomial vs. Exponential.md",
-    "DSA/Polynomial Time = P.md",
-    "DSA/Reduction to P.md",
-    "DSA/Order KN – Exponential.md",
-    "DSA/Big O Categories Review.md",
+    "DSA/Iterating.md",
+    "DSA/Introduction to Data Structures 2.md",
+    "DSA/Exponential Growth Sequences.md",
+    "DSA/Yield.md",
+    "DSA/Linked List vs. List.md",
+    "DSA/Linked Lists.md",
+    "DSA/Matchmaking Queue.md",
+    "DSA/Stack Speed.md",
+    "DSA/Queue Speed.md",
+    "DSA/Queue Class.md",
+    "DSA/What Is a Queue.md",
+    "DSA/Using a Stack.md",
+    "DSA/Pop and Peek.md",
+    "DSA/Stacks.md",
+    "DSA/Lists 1.md",
+    "DSA/What Are Data Structures 1.md",
+    "DSA/Exponents Grow.md",
     "DSA/Complexity Quiz.md",
-    "DSA/Introduction to Data Structures 1.md",
-    "What Are Data Structures.md",
-    "DSA/Algorithm.md",
-    "DSA/What Are Data Structures.md",
-    "DSA/Introduction to Data Structures.md",
-    "DSA/Insertion Sort Big O.md",
-    "DSA/Exponential Decay.md",
-    "DSA/Why Use Insertion Sort.md",
-    "DSA/Why Merge Sort.md",
-    "DSA/Merge Sort Big O.md",
-    "DSA/Merge Sort.md",
-    "DSA/Why Bubble Sort.md",
-    "DSA/Bubble Sort Big O.md",
+    "Linux/Compiled.md",
+    "OOP/Object.md",
+    "OOP/Método.md",
+    "OOP/Instance.md",
+    "OOP/Imperative.md",
+    "OOP/Clean Code.md",
+    "OOP/Class and Instance Variables.md",
+    "OOP/Class.md",
     "DSA",
     "Untitled.base",
     "AI Agent",
